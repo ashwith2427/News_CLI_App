@@ -1,0 +1,11 @@
+c:\Users\ashwi\OneDrive\Documents\rust_lang\news_app\news_api\target\debug\deps\serde_urlencoded-c1297b8681d02ed1.rmeta: C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\lib.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\de.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\mod.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\key.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\pair.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\part.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\value.rs
+
+c:\Users\ashwi\OneDrive\Documents\rust_lang\news_app\news_api\target\debug\deps\serde_urlencoded-c1297b8681d02ed1.d: C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\lib.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\de.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\mod.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\key.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\pair.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\part.rs C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\value.rs
+
+C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\lib.rs:
+C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\de.rs:
+C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\mod.rs:
+C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\key.rs:
+C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\pair.rs:
+C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\part.rs:
+C:\Users\ashwi\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.7.1\src\ser\value.rs:
